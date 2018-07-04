@@ -8,7 +8,9 @@ The game begins as you wake up on street called Snake Wiggles Street, where ther
 Play the game to find out!
 
 __REQUIREMENTS:__
+
 PYTHON SHELL: Version 3.5/3.6/3.7
+
 PYTHON Random and Time MODULE
 
 This program should be saved in a --.py file.
